@@ -1,4 +1,8 @@
 # vuehatchways
+---
+Took breaks in between parts
+---
+
 
 ## Project setup
 ```
