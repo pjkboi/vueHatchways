@@ -4,7 +4,7 @@ Took breaks in between parts
 ---
 
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
